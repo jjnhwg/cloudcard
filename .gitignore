@@ -1,0 +1,9 @@
+# Markdown files (keep readme.md)
+*.md
+!readme.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
